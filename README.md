@@ -2,6 +2,17 @@
 
 Aplikasi HRIS berbasis web menggunakan CodeIgniter 4.
 
+## Tampilan Program
+<p align="center">
+  <img src="login.png" width="45%" />
+  <img src="dashboard admin.png" width="45%" />
+  <img src="dashboard hrd.png" width="45%" />
+  <img src="dashboard karyawan.png" width="45%" />
+  <img src="data absensi karyawan.png" width="45%" />
+  <img src="laporan hrd.png" width="45%" />
+  <img src="laporan fisik.png" width="45%" />
+</p>>
+
 ## Fitur
 - Manajemen User & Karyawan (Admin)
 - Absensi Karyawan (mandiri & manual HRD)
